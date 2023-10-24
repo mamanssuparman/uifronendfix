@@ -1373,6 +1373,7 @@ input:checked + .toggle-bg {
   width: 100%;
 }
 
+<<<<<<< HEAD
 .w-36 {
   width: 9rem;
 }
@@ -1381,6 +1382,8 @@ input:checked + .toggle-bg {
   width: 10rem;
 }
 
+=======
+>>>>>>> galleryvideo
 .max-w-md {
   max-width: 28rem;
 }
